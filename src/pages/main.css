@@ -1,4 +1,15 @@
-.main{
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.main-navbar{
     width: 100%;
     background-color: #E9E9E9;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.main-navbar h3{
+    margin: 0;
+    padding: 0;
+}
+.main-navbar img{
+    padding-top: 1%;
+    width: 25%;
 }
