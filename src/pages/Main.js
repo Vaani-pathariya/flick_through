@@ -1,6 +1,11 @@
+import "./main.css"
 const Main=()=>{
     return(
-        <div>Hello</div>
+        <div>
+            <nav className="main">
+                hello
+            </nav>
+        </div>
     )
 }
 export default Main;
