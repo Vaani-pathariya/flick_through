@@ -7,7 +7,7 @@ const Main=()=>{
             <nav className="main-navbar">
                 <img src={logo}></img>
                 <hr></hr>
-                <h3>Blogs</h3>
+                <h4>Blogs</h4>
                 <Outlet></Outlet>
             </nav>
         </div>
