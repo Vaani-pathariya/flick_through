@@ -9,3 +9,5 @@
 9. Search by genre
 10. Trending (irresepective of genre (only on the basis of views))
 11.Affiliate links
+INSPO =>https://bestthrillers.com/the-girl-in-the-blue-blazer-a-spellbinding-revenge-thriller-by-alretha-thomas/
+INSPO =>https://booknerdection.com/the-first-olympians-a-unique-dystopian-sci-fi-with-ai/
