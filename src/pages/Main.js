@@ -8,8 +8,9 @@ const Main=()=>{
                 <img src={logo}></img>
                 <hr></hr>
                 <h3>Blogs</h3>
-                <Outlet></Outlet>
+                <h3>Authors</h3>
             </nav>
+            <Outlet></Outlet>
         </div>
     )
 }
